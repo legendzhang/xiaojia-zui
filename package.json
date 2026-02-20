@@ -1,7 +1,7 @@
 {
-  "name": "xiaojia",
+  "name": "xiaojia-zui",
   "version": "1.0.0",
-  "description": "",
+  "description": "OpenClaw WebChat Client",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
